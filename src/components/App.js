@@ -50,8 +50,8 @@ const App = () => {
             <MainHead classIden={Class} />
             <div class="row">
               <div class="col s12 center-align">
-                <BarChart />
                 {renderTime(Data)}
+                <BarChart />
               </div>
             </div>
           </div>
