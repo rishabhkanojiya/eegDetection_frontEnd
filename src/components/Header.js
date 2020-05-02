@@ -11,7 +11,7 @@ const Header = () => {
           <ul id="nav-mobile" class="right ">
             <li>
               <a
-                href="https://github.com/rishabhkanojiya?tab=repositories"
+                href="https://github.com/rishabhkanojiya/eegDetection_frontEnd"
                 target="_blank"
               >
                 <i class="material-icons left">code</i>Github Code
